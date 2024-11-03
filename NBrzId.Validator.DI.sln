@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D78D34CB-E0F5-43BD-88C9-6CA849BA022D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBrzId.Validator.DependencyInjection", "NBrzId.Validator.DependecyInjection\NBrzId.Validator.DependencyInjection.csproj", "{90F49CD2-78CB-49B2-936C-001741C49331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F49CD2-78CB-49B2-936C-001741C49331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F49CD2-78CB-49B2-936C-001741C49331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F49CD2-78CB-49B2-936C-001741C49331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F49CD2-78CB-49B2-936C-001741C49331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90F49CD2-78CB-49B2-936C-001741C49331} = {D78D34CB-E0F5-43BD-88C9-6CA849BA022D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00068957-46B6-4854-9441-ED63C2523B71}
+	EndGlobalSection
+EndGlobal
