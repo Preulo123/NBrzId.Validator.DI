@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <BaseOutputPath>bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
     <PackageId>NBrzId.Validator.DependencyInjection</PackageId>
-    <Version>0.1.1</Version>
     <Authors>Christian Martins</Authors>
     <Description>Contains dependency injection configuration methods for types defined in the package NBrzId.Validator</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -22,4 +22,5 @@
   </ItemGroup>
 
 </Project>
+
 
