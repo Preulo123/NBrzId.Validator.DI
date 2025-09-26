@@ -26,7 +26,7 @@ This library provides extension methods to easily register Brazilian identifier 
 Add the library via NuGet:
 
 ```sh
-dotnet add package NBrzId.Validator.DependencyInjection --version 1.0.0
+dotnet add package NBrzId.Validator.DependencyInjection --version 0.2.1
 ```
 
 ## Usage
