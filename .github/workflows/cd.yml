@@ -12,6 +12,6 @@ jobs:
   call-cd:
     uses: Preulo123/common-workflows/.github/workflows/cd.yml@main
     with:
-      project-path: src/NBrzId.Validator.DependecyInjection/NBrzId.Validator.DependencyInjection.csproj
+      project-path: NBrzId.Validator.DependecyInjection/NBrzId.Validator.DependencyInjection.csproj
     secrets:
       NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
