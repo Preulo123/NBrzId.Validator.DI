@@ -5,6 +5,7 @@
     <BaseOutputPath>bin\</BaseOutputPath>
     <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
     <PackageId>NBrzId.Validator.DependencyInjection</PackageId>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <Authors>Christian Martins</Authors>
     <Description>Contains dependency injection configuration methods for types defined in the package NBrzId.Validator</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -19,8 +20,7 @@
 
   <ItemGroup>
     <None Include="icon.png" Pack="true" PackagePath="/" />
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
-
-
