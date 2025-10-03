@@ -11,6 +11,15 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Preulo123/NBrzId.Validator.DI</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
+    <IncludeSymbols>true</IncludeSymbols>
+    <IncludeSource>true</IncludeSource>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <PackageTags>cpf cnpj brazil brasil</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/Preulo123/NBrzId.Validator.DI#readme</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
